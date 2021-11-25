@@ -260,10 +260,6 @@ footer hr {
 
 
 /* About Us */
-.about {
-    justify-content: center;
-}
-
 .about h5, p {
     font-family: 'Montserrat', sans-serif;
 }
